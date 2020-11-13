@@ -88,5 +88,3 @@ gulp
 ## 参考
 
 > * [广东省地图 show](https://github.com/carsonWuu/echartJs.git)
-
-![china-second](http://static.qiutian00.cn/uPic/china-second.png)
