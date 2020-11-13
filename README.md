@@ -47,14 +47,13 @@ gulp
 
 <!-- ![nwVOF1.png](https://s2.ax1x.com/2019/09/11/nwVOF1.png) -->
 
-![china-first](https://qiutian00blog.oss-cn-shenzhen.aliyuncs.com/uPic/china-first.png)
+![china-first](http://static.qiutian00.cn/uPic/china-first.png)
 
 **http://localhost:8181/map-china-dataRange.html**:
 
 <!-- [![mPNvlV.md.png](https://s2.ax1x.com/2019/08/13/mPNvlV.md.png)](https://imgchr.com/i/mPNvlV) -->
 
-![china-second](https://qiutian00blog.oss-cn-shenzhen.aliyuncs.com/uPic/china-second.png?Expires=1605277606&OSSAccessKeyId=TMP.3KgQxU5ByXuFRD9iEb3iKuz6pr33xGBEt38i4gT6o8wx41DDLwTyTn4oezwaERnLQzD7vrVKbTMzL8mS72sRdhmvXPpTaK&Signature=4CuUoumHqcVnHu21oEL8KaO%2BVcw%3D
-)
+![china-second](http://static.qiutian00.cn/uPic/china-second.png)
 
 ## 布局的适应：视口单位(Viewport units)
 
@@ -63,8 +62,7 @@ gulp
 视口单位中的“视口”，桌面端指的是浏览器的可视区域；移动端指的就是Viewport中的Layout Viewport。
 
 <!-- ![Image text](https://images2017.cnblogs.com/blog/1210235/201709/1210235-20170918162531150-539160393.jpg) -->
-
-![Image text](https://qiutian00blog.oss-cn-shenzhen.aliyuncs.com/uPic/viewport.jpg?Expires=1605277775&OSSAccessKeyId=TMP.3KgQxU5ByXuFRD9iEb3iKuz6pr33xGBEt38i4gT6o8wx41DDLwTyTn4oezwaERnLQzD7vrVKbTMzL8mS72sRdhmvXPpTaK&Signature=KlTEFbjUvrDWffjZAvMMm2OBxDQ%3D)
+![viewport](http://static.qiutian00.cn/uPic/viewport.jpg)
 
 根据CSS3规范，视口单位主要包括以下4个：
 >* 1.vw：1vw等于视口宽度的1%。
@@ -79,14 +77,16 @@ gulp
 > vmin相对于视口的宽度或高度中较小的那个。其中最小的那个被均分为100单位的vmin。
 
 <!-- ![Image text](https://images2017.cnblogs.com/blog/1210235/201709/1210235-20170918162831821-1344168854.jpg) -->
-![Image text](https://qiutian00blog.oss-cn-shenzhen.aliyuncs.com/uPic/viewport-second.jpg?Expires=1605277982&OSSAccessKeyId=TMP.3KgQxU5ByXuFRD9iEb3iKuz6pr33xGBEt38i4gT6o8wx41DDLwTyTn4oezwaERnLQzD7vrVKbTMzL8mS72sRdhmvXPpTaK&Signature=JlNGVnx3L82C8ftMpcJXAXCGFY0%3D)
+![viewport-second](http://static.qiutian00.cn/uPic/viewport-second.jpg)
 
 > 兼容性问题:
 
 <!-- ![Image text](https://images2017.cnblogs.com/blog/1210235/201709/1210235-20170918164116462-239899595.png) -->
-![Image text](https://qiutian00blog.oss-cn-shenzhen.aliyuncs.com/uPic/viewport-canuse.png?Expires=1605278021&OSSAccessKeyId=TMP.3KgQxU5ByXuFRD9iEb3iKuz6pr33xGBEt38i4gT6o8wx41DDLwTyTn4oezwaERnLQzD7vrVKbTMzL8mS72sRdhmvXPpTaK&Signature=kegItzFU77ABCP66ng15r2QpXAU%3D)
+![viewport-canuse](http://static.qiutian00.cn/uPic/viewport-canuse.png)
 
 
 ## 参考
 
 > * [广东省地图 show](https://github.com/carsonWuu/echartJs.git)
+
+![china-second](http://static.qiutian00.cn/uPic/china-second.png)
